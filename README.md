@@ -4,7 +4,7 @@
 
 ## [1. 선형회귀](https://github.com/shp1204/machine-deep-learning/blob/master/machine%20learning/Linear%20Regression.ipynb)
 
-## [2. 다항회귀]([https://github.com/shp1204/machine-deep-learning/blob/master/machine%20learning/Polynomial%20Regression.ipynb])
+## [2. 다항회귀](https://github.com/shp1204/machine-deep-learning/blob/master/machine%20learning/Polynomial%20Regression.ipynb)
 
 ## [3.릿지,라쏘회귀](https://github.com/shp1204/machine-deep-learning/blob/master/machine%20learning/Ridge%2CLasso%20Regression.ipynb)
 

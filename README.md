@@ -8,5 +8,7 @@
 
 ## [3.릿지,라쏘회귀](https://github.com/shp1204/machine-deep-learning/blob/master/machine%20learning/Ridge%2CLasso%20Regression.ipynb)
 
+4.선형회귀의 한계
 
+5.로지스틱 회귀
 

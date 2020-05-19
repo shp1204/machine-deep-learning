@@ -12,3 +12,5 @@
 
 ## [5. 로지스틱 회귀](https://github.com/shp1204/machine-deep-learning/blob/master/machine%20learning/Logistic%20Regression.ipynb)
 
+## [6.SVM](https://github.com/shp1204/machine-deep-learning/blob/master/machine%20learning/SVM(%20Support%20Vector%20Machine%20).ipynb)
+

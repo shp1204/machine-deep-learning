@@ -14,3 +14,5 @@
 
 ## [6.SVM](https://github.com/shp1204/machine-deep-learning/blob/master/machine%20learning/SVM(%20Support%20Vector%20Machine%20).ipynb)
 
+## [7. Naive Bayse](https://github.com/shp1204/machine-deep-learning/blob/master/machine%20learning/Naive%20Bayse.ipynb)
+

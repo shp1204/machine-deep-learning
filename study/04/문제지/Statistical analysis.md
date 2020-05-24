@@ -71,7 +71,7 @@
 
 - 힌트 : `pd.crosstab`
 
-  - `margin` : 합계에 해당하는 "All" 추가 여부에 대한 파라미터
+  - `margins` : 합계에 해당하는 "All" 추가 여부에 대한 파라미터
 
   - `normalize` : 테이블의 value를 스케일링해주는 파라미터
 
